@@ -14,7 +14,7 @@ You can execute the codes of the sub topics on Google Colab [here](https://colab
 - Utilities program
 
 # Chapter 3
-You can execute the codes of this chapter on Google Colaob [here]( https://colab.research.google.com/drive/1RW-evgTjz6gq8TgXappiwD3m8nOWg02J) or Jupyter Notebook
+You can execute the codes of this chapter on Google Colab [here]( https://colab.research.google.com/drive/1RW-evgTjz6gq8TgXappiwD3m8nOWg02J) or Jupyter Notebook
 # Sub Topics:
  - Class Imbalance program
  - Decision Trees program
