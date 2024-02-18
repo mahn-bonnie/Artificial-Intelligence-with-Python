@@ -1,7 +1,7 @@
 # Artificial Intelligence with Python
 This is a python book which teaches how to code in AI using python 
 # Chapter 2
-You can execute the codes of the sub topics on Google Colab [here](https://colab.research.google.com/drive/15G7GaIfzIV4lEhacqWFlOrIcEKq8FKTC) or Jupyter Notebook
+Download the files and run Chapter_2.py with the attached files on Jupyter Notebook or Google Colab
 # It entails:
 - Confusion Matrix program
 - Data Preprocessor program
@@ -14,7 +14,14 @@ You can execute the codes of the sub topics on Google Colab [here](https://colab
 - Utilities program
 
 # Chapter 3
-You can execute the codes of this chapter on Google Colab [here]( https://colab.research.google.com/drive/1RW-evgTjz6gq8TgXappiwD3m8nOWg02J) or Jupyter Notebook
+Download the files and run Chapter_2.py with the attached files on Jupyter Notebook or Google Colab
 # Sub Topics:
  - Class Imbalance program
- - Utilities codetion coderam
+ - Decision Tree program
+ - Feature Importance code
+ - Grid-Search program
+ - Random Forests program
+ - Run Grid Search program
+ - Traffic Data
+ - Traffic Prediction code
+ - Utilities code
