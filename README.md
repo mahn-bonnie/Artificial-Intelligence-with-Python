@@ -25,3 +25,13 @@ Download the files and run Chapter_3.py with the attached files on Jupyter Noteb
  - Traffic Data
  - Traffic Prediction code
  - Utilities code
+
+# Chapter 4
+Download the files and run Chapter_4.py with the attached files on Jupyter Notebook or Google Colab
+# Sub Topics:
+ - Clustering Quality code analysis
+ - GMM Classifier code
+ - K-Means clustering code
+ - Market Segmentation program
+ - Means Shift code
+ - Stock Prediction code
