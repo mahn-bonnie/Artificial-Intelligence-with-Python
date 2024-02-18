@@ -14,7 +14,7 @@ Download the files and run Chapter_2.py with the attached files on Jupyter Noteb
 - Utilities program
 
 # Chapter 3
-Download the files and run Chapter_2.py with the attached files on Jupyter Notebook or Google Colab
+Download the files and run Chapter_3.py with the attached files on Jupyter Notebook or Google Colab
 # Sub Topics:
  - Class Imbalance program
  - Decision Tree program
