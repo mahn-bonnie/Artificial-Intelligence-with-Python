@@ -58,3 +58,13 @@ Download the files and run Chapter_5.py with the attached files on Jupyter Noteb
  - Movie Recommender program
  - Nearest Neighbours Classifier
  - Pipeline Trainer code
+
+# Chapter 6
+Download the files and run Chapter_6.py with the attached files on Jupyter Notebook or Google Colab or an environment that supports command-line arguments.
+In this Chapter, Packt uses Logpy module, I used sympy module since the Logpy module wasn't available
+# Sub Topics:
+ - Expression matcher code
+ - Family code
+ - Prime code
+ - Puzzle Solver program
+ - State Identifier
