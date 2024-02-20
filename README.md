@@ -68,3 +68,12 @@ In this Chapter, Packt uses Logpy module, I used sympy module since the Logpy mo
  - Prime code
  - Puzzle Solver program
  - State Identifier
+
+
+# Chapter 8
+Download the files and run Chapter_8.py with the attached files on Jupyter Notebook or Google Colab or an environment that supports command-line arguments.
+# Sub Topics:
+ - Bit Counter program
+ - Robot program
+ - Symbol Regression code
+ - Visualization
