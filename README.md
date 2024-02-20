@@ -48,3 +48,13 @@ Download the files and run Chapter_4.py with the attached files on Jupyter Noteb
  - Market Segmentation program
  - Means Shift code
  - Stock Prediction code
+
+# Chapter 5
+Download the files and run Chapter_4.py with the attached files on Jupyter Notebook or Google Colab or an environment that supports command-line arguments
+# Sub Topics:
+ - Collaborative Filtering program
+ - Computing scores code
+ - K-Nearest Neighbours program
+ - Movie Recommender program
+ - Nearest Neighbours Classifier
+ - Pipeline Trainer code
